@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZCUST DATA BINDING SERVICE'
+define service ZACUSTSERVICE606 {
+  expose ZA_CDS_VIEW_CUST606;
+  expose ZA_CDS_VIEW_CUSTADDRESS606;
+}
